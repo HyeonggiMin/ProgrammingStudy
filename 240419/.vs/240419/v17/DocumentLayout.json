@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\240419\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\ProgrammingStudy\\240419\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96E4A5CE-5F13-4615-B405-692C05865687}|240419\\240419.csproj|c:\\users\\user\\source\\repos\\240419\\240419\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96E4A5CE-5F13-4615-B405-692C05865687}|240419\\240419.csproj|c:\\users\\user\\documents\\github\\programmingstudy\\240419\\240419\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96E4A5CE-5F13-4615-B405-692C05865687}|240419\\240419.csproj|solutionrelative:240419\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\240419\\240419\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\ProgrammingStudy\\240419\\240419\\Program.cs",
               "RelativeDocumentMoniker": "240419\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\240419\\240419\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\ProgrammingStudy\\240419\\240419\\Program.cs",
               "RelativeToolTip": "240419\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T02:26:23.325Z",
               "EditorCaption": ""

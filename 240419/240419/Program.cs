@@ -1,4 +1,6 @@
-﻿// 1. 공부내용1
+﻿// 1. 코딩규칙 연습 
+// 내용
+
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!"); // 한줄 주석: Ctrl+K+C
 Console.WriteLine("Hello, World!"); // 한줄 주석 해제: Ctrl+K+U
