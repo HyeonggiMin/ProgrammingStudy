@@ -86,5 +86,13 @@ library.Add("책6", "2,3");
 
 Console.WriteLine("도서의 이름을 입력해 주세요.");
 string bookName = Console.ReadLine();
-string location = library[bookName];
-Console.WriteLine("도서의 위치는 " + location + "입니다.");
+
+if(library.ContainsKey(bookName))
+{
+    string location = library[bookName];
+    Console.WriteLine("도서의 위치는 " + location + "입니다.");
+}
+else
+{
+    Console.WriteLine("도서가 존재하지 않습니다. 다시 검색해 주세요.");
+}
